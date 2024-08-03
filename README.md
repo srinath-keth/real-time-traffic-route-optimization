@@ -1,9 +1,9 @@
-**Delivery Driver Route Optimization with CVRP and Real-Time Traffic Data**
+# Delivery Driver Route Optimization with CVRP and Real-Time Traffic Data
 
 
 ## Objective
 - Calculate route travel
-- Calculate transport cargo needed
+- Optimize the total time travelled
 - Solver map visualization
 - Real-world map integration
 
@@ -20,7 +20,7 @@
 2. Install depedencies `pip install -r requirements.txt`
 3. Import your dataset into this project directory
 4. Open `CVRP-Gurobi.ipynb` files
-5. Edit cells 4 and 5 with your dataset
+5. Edit cells with your dataset
 6. Add your own OpenRouteServices API Key
 
 ## Results and analysis
