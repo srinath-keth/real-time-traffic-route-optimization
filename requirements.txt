@@ -1,0 +1,6 @@
+numpy
+gurobipy
+pandas
+folium
+matplot
+googlemaps
