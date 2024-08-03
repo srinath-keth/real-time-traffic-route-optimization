@@ -25,21 +25,21 @@
 
 ## Results and analysis
 
-![](Aspose.Words.60ded7e4-139b-4e3e-b189-f32773815321.001.png)
+![](001.png)
 
 
-![](Aspose.Words.60ded7e4-139b-4e3e-b189-f32773815321.002.png) 
+![](002.png) 
 
 
 
 **Total Distance Traveled**
 
-![](Aspose.Words.60ded7e4-139b-4e3e-b189-f32773815321.005.png)
+![](005.png)
 
 **Total Travel Time**
 
-![](Aspose.Words.60ded7e4-139b-4e3e-b189-f32773815321.006.png)
+![](006.png)
 
 **Route Visualization**
 
-![](Aspose.Words.60ded7e4-139b-4e3e-b189-f32773815321.008.png)
+![](008.png)
